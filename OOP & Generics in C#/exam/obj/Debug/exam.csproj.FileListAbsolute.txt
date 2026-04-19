@@ -1,0 +1,7 @@
+G:\IDB\c#\exam\exam\exam\bin\Debug\exam.exe.config
+G:\IDB\c#\exam\exam\exam\bin\Debug\exam.exe
+G:\IDB\c#\exam\exam\exam\bin\Debug\exam.pdb
+G:\IDB\c#\exam\exam\exam\obj\Debug\exam.csproj.AssemblyReference.cache
+G:\IDB\c#\exam\exam\exam\obj\Debug\exam.csproj.CoreCompileInputs.cache
+G:\IDB\c#\exam\exam\exam\obj\Debug\exam.exe
+G:\IDB\c#\exam\exam\exam\obj\Debug\exam.pdb
